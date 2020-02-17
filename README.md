@@ -1,2 +1,8 @@
-# Wireless_Charging-
+# Wireless Charging-
 Wireless Communication System for Wireless Charging of an Arduino-Based Car
+Few code snippets are attached, not the final as the research is still under way
+
+Abstract—Smart devices surrounding us in daily life require frequent charging. To deal with the charging issue, wireless power transfer is a good option to provide energy due to its plenty of advantages, such as convenience, user-friendliness, and safety. A thorough wireless charging system consist of not only a transmitter and receiver, but also power generation, a controller, a charging station and a battery. Wireless charging enables charging easier for users. The communication between transmitters and receivers should be wireless as well. A communication system with various sensors forms an Internet of things (IoT) structure. It allows everyday objects with network connectivity to send and receive data so that they can talk to each other without human intervention. Moreover, it ensures that power is transferred in a precisely controlled way. This article uses a quasi-dynamic charging scenario to present the charging system, including an IoT structure and wireless charging, for an Arduino smart car. Our communication system is based on ESP 8266 NodeMCU which is a cost-efficient WiFi Microcontroller. The whole system is verified in experiment. The result shows that the system can provide good performance in a realistic situation, and a good basis for our next step–dynamic wireless charging. 
+
+Few Special thanks to Ya-Hui Wu (Phd.) , Prof. Dariusz Czarkowski and Prof. Franscisco de Leon 
+At Department of Electrical and Computer Engineering, NYU Tandon School of Engineering
