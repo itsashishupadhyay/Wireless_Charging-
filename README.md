@@ -806,13 +806,8 @@ This project is part of academic research at NYU Tandon School of Engineering. T
 
 **Please cite this work if used in academic research**:
 ```
-@inproceedings{wu2019wireless,
-  title={Wireless Communication System for Wireless Charging of an Arduino-Based Car},
-  author={Wu, Ya-Hui and Czarkowski, Dariusz and de Leon, Francisco and Upadhyay, Ashish and Taylor, Noah},
-  booktitle={IEEE Conference},
-  year={2019},
-  organization={NYU Tandon School of Engineering}
-}
+Y. -H. Wu, D. Czarkowski, F. de Leon, A. Upadhyay and N. Taylor, "Wireless Communication System for Wireless Charging of an Arduino-Based Car," 2019 International Automatic Control Conference (CACS), Keelung, Taiwan, 2019, pp. 1-6, doi: 10.1109/CACS47674.2019.9024729. keywords: {Inductive charging;Automobiles;Sensors;Batteries;Wireless communication;Wireless fidelity;Inductance;wireless charging;communication system;testbed;Internet of Things;Class E inverter},
+
 ```
 
 ## Acknowledgments
